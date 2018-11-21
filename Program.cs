@@ -11,7 +11,7 @@ namespace DiplomadoDesarrolloWebCS
         static void Main(string[] args)
         {
             Guia_Practica_de_Nivelacion.Ejercicio_2 ejercicio_2 = new Guia_Practica_de_Nivelacion.Ejercicio_2();
-            ejercicio_2.Ejercicio2_2();
+            ejercicio_2.Ejercicio2_6();
 
             Console.ReadKey();
         }
