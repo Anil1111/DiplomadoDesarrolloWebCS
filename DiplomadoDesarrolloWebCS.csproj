@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Guia Practica de Nivelacion\Ejercicio_1.cs" />
+    <Compile Include="Guia Practica de Nivelacion\Ejercicio_2.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
