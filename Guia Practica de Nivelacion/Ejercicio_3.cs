@@ -16,16 +16,26 @@ namespace DiplomadoDesarrolloWebCS.Guia_Practica_de_Nivelacion
             //a 5,000.00 se descuenta un 10 %, de lo contrario se descuenta un 5 %. 
             //Imprimir sueldo bruto, descuento y sueldo neto.
 
-
-
-            double SB, SN, DD = 0, HT, TH;            Console.WriteLine("===============>> PROGRAMA QUE CALCULA SUELDO 2.0 <<===============");
-            Console.WriteLine("Ingrese costo de tarifa por hora: ");            HT = Convert.ToDouble(Console.ReadLine());            Console.WriteLine("Ingrese total de horas trabajadas: ");            TH = Convert.ToDouble(Console.ReadLine());            SB = HT * TH;            Console.WriteLine("El sueldo bruto es: ${0}", SB.ToString("N"));            if (SB > 5000)
+            double SB, SN, DD = 0, HT, TH;
+            Console.WriteLine("===============>> PROGRAMA QUE CALCULA SUELDO 2.0 <<===============");
+            Console.WriteLine("Ingrese costo de tarifa por hora: ");
+            HT = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Ingrese total de horas trabajadas: ");
+            TH = Convert.ToDouble(Console.ReadLine());
+            SB = HT * TH;
+            Console.WriteLine("El sueldo bruto es: ${0}", SB.ToString("N"));
+            if (SB > 5000)
             {
                 DD = SB * 0.10;
-            }            else
+            }
+            else
             {
                 DD = SB * 0.05;
-            }                        Console.WriteLine("El descuento es: ${0}", DD.ToString("N"));            SN = SB - DD;            Console.WriteLine("El sueldo neto es: ${0}", SN.ToString("N"));
+            }
+            
+            Console.WriteLine("El descuento es: ${0}", DD.ToString("N"));
+            SN = SB - DD;
+            Console.WriteLine("El sueldo neto es: ${0}", SN.ToString("N"));
         }
 
         public void Ejercicio3_2()
