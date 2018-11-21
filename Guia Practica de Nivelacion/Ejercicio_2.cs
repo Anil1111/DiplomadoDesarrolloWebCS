@@ -122,7 +122,6 @@ namespace DiplomadoDesarrolloWebCS.Guia_Practica_de_Nivelacion
             t = Convert.ToDouble(Console.ReadLine());
             c = ((m * i) / t )+ (m / t);
             Console.WriteLine("Las Cuotas son de: ${0} pesos", c.ToString("N"));
-
         }
     }
 }
