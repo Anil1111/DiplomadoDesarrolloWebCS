@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DiplomadoDesarrolloWebCS.Guia_Practica_No_1
+namespace DiplomadoDesarrolloWebCS.Unidad_1.Guia_Practica_No_1
 {
     class Ejercicio_1
     {

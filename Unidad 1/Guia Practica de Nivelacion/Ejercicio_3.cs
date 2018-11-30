@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DiplomadoDesarrolloWebCS.Guia_Practica_de_Nivelacion
+namespace DiplomadoDesarrolloWebCS.Unidad_1.Guia_Practica_de_Nivelacion
 {
     class Ejercicio_3
     {

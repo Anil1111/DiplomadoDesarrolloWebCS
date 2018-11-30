@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DiplomadoDesarrolloWebCS.Guia_Practica_de_Nivelacion
+namespace DiplomadoDesarrolloWebCS.Unidad_1.Guia_Practica_de_Nivelacion
 {
     class Ejercicio_5
     {
@@ -31,7 +31,8 @@ namespace DiplomadoDesarrolloWebCS.Guia_Practica_de_Nivelacion
         {
             //Sentence:
             //Crear un menú de opciones usando do while que imprima la tabla de multiplicar deseada por el
-            //usuario y calcule promedio.
+            //usuario y calcule promedio.
+
 
             string menu = null;
 
