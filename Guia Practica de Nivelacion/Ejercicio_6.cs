@@ -32,7 +32,8 @@ namespace DiplomadoDesarrolloWebCS.Guia_Practica_de_Nivelacion
         {
             //Sentence:
             //Crear una aplicación que calcule e imprima la sumatoria de los elementos de un vector. 
-            //Los elementos ingresarán por teclado.
+            //Los elementos ingresarán por teclado.
+
 
             int[] vector;
             int capacidad, sumatoria = 0;
