@@ -10,8 +10,8 @@ namespace DiplomadoDesarrolloWebCS
     {
         static void Main(string[] args)
         {
-            Unidad_1.Guia_Practica_No_3.Ejercicio_1 ejercicio = new Unidad_1.Guia_Practica_No_3.Ejercicio_1();
-            ejercicio.Ejercicio1_2();
+            Unidad_1.Guia_Practica_No_3.Ejercicio_2 ejercicio = new Unidad_1.Guia_Practica_No_3.Ejercicio_2();
+            ejercicio.Ejercicio2_1();
 
             Console.ReadKey();
         }
