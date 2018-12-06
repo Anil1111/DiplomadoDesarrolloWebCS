@@ -56,6 +56,9 @@
     <Compile Include="Unidad 1\Guia Practica No 1\Ejercicio_4.cs" />
     <Compile Include="Unidad 1\Guia Practica No 1\Ejercicio_5.cs" />
     <Compile Include="Unidad 1\Guia Practica No 2\Ejercicio_1.cs" />
+    <Compile Include="Unidad 1\Guia Practica No 2\Ejercicio_2.cs" />
+    <Compile Include="Unidad 1\Guia Practica No 2\Ejercicio_3.cs" />
+    <Compile Include="Unidad 1\Guia Practica No 2\Ejercicio_4.cs" />
     <Compile Include="Unidad 1\Guia Practica No 3\Ejercicio_1.cs" />
     <Compile Include="Unidad 1\Guia Practica No 3\Ejercicio_2.cs" />
   </ItemGroup>
